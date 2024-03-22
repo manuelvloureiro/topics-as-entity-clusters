@@ -1,0 +1,13 @@
+beautifulsoup4
+datasets
+gensim
+matplotlib
+pandas
+pyahocorasick
+pymorphy2[fast]
+sentence-transformers
+sklearn
+spacy>=3.0.5
+torch
+tqdm
+zeyrek

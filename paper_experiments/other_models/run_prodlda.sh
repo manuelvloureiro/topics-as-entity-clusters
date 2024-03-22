@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+
+model='prodlda'
+epochs=250
+device=0
+epochsstep=10
+earlystop=50
+
+for dataset in wikipedia ccnews mlsum; do
+  for topics in 100 300; do
+    for seed in {0..9}; do
+      echo paper_experiments/stats/log-$model-topics$topics-$dataset-seed$seed.txt
+      python paper_experiments/other_models/ProdLDA/PyTorchAVITM/train_prodlda.py \
+        --dataset $dataset \
+        --num-epochs $epochs \
+        --epochs-step $epochsstep \
+        --early-stop $earlystop \
+        --num-topics $topics \
+        --seed $seed \
+        --device $device \
+        > paper_experiments/stats/log-$model-topics$topics-$dataset-seed$seed-epochs$epochs.txt
+    done
+  done
+done

@@ -1,0 +1,43 @@
+{
+  "assets": "paper_experiments/assets/",
+  "device": 0,
+  "datasets": {
+    "ccnews": {
+      "entities": "paper_experiments/assets/ccnews_lines.txt",
+      "texts": "paper_experiments/assets/ccnews_texts.txt"
+    },
+    "mlsum": {
+      "entities": "paper_experiments/assets/mlsum_lines.txt",
+      "texts": "paper_experiments/assets/mlsum_texts.txt"
+    },
+    "wikipedia":{
+      "entities": "paper_experiments/assets/wikipedia_lines.txt",
+      "texts": "paper_experiments/assets/wikipedia_texts.txt"
+    }
+  },
+  "disambiguation_threshold": 0.5,
+  "entitizer": "paper_experiments/assets/entitizer.pkl",
+  "languages": [
+    "en",
+    "de",
+    "fr",
+    "ru",
+    "pl",
+    "tr",
+    "es",
+    "it",
+    "ms",
+    "pt",
+    "ar",
+    "th"
+  ],
+  "models_folder": "paper_experiments/models/",
+  "num_topics": 1000,
+  "qrank_entities": 1000000,
+  "stats_folder": "paper_experiments/stats/",
+  "text_entities": "paper_experiments/assets/wikipedia_lines.txt",
+  "wikidata_edges": "paper_experiments/assets/wikidata.edg",
+  "wikidata_embeddings": "paper_experiments/assets/wikidata.emb",
+  "wikipedia_embeddings": "paper_experiments/assets/wikipedia.emb",
+  "wikipedia": "paper_experiments/assets/wikipedia.jsonl"
+}

@@ -1,0 +1,229 @@
+alias,id,reason
+Çin,Q148,China
+aşı,Q134808,vaccine
+araba,Q1420,motor car
+araç sigorta,Q1068361,Another vehicle insurance (lemmatized)
+araba sigorta,Q1068361,Another vehicle insurance (lemmatized)
+sigorta poliçe,Q977871, insurance polict (lemmatized)
+sigortacı,Q2143354,insurance company
+Weibo,Q92526
+gig ekonomi,Q51711208
+kamu düzeni,Q294199
+iklim değişik,Q7942
+küresel ısınmak,Q7942
+ABD Başkan,Q11696
+ABD tarihî,Q131110
+ün,Q2045208
+fenomen,Q2045208
+Online oymak,Q116634
+Prens Harry,Q152316
+İngiltere,Q145
+Afganistan,Q889
+Arnavutça,Q222
+Cezayirli,Q262
+Amerikan Samoası,Q16641
+Andorralı,Q228
+Angolalılar,Q916
+Antiguan,Q781
+Barbudan,Q781
+Arjantinli,Q414
+Ermenice,Q399
+Arubalı,Q21203
+Avustralyalı,Q408
+Avusturyalı,Q40
+Azerbeycanlı,Q227
+Bahreynli,Q398
+Bangladeşli,Q902
+Barbadoslu,Q244
+Beyaz Rusyalı,Q184
+Belçikalı,Q31
+Belizean,Q242
+Beninese,Q962
+Bhutanlı,Q917
+Boşnakça,Q225
+Motswana,Q963
+Brezilyalı,Q155
+Bruneian,Q921
+Bulgarca,Q219
+Burkinabé,Q965
+Burundili,Q967
+Kamboçyalı,Q424
+Kamerunlu,Q1009
+Kanadalı,Q16
+Orta Afrikalı,Q929
+Çadlı,Q657
+Şilili,Q298
+Kolombiyalı,Q739
+Komorlu,Q970
+Cook Adası,Q26988
+Kosta Rikalı,Q800
+Hırvatça,Q224
+Kübalı,Q241
+Kıbrıslı,Q229
+Çekçe,Q213
+Danimarkalı,Q35
+Cibuti,Q3604
+Dominikli,Q784
+Dominikli,Q786
+Ekvadorlu,Q736
+Mısırlı,Q79
+Salvadorlu,Q792
+İngilizce,Q21
+Ekvator Ginesi,Q983
+Eritreli,Q986
+Estonyalı,Q191
+Swazi,Q1050
+Etiyopyalı,Q115
+Fijili,Q712
+Finlandiyalı,Q33
+Fransızca,Q142
+Gabonlu,Q1000
+Gürcü,Q1428
+Almanca,Q183
+Ganalı,Q117
+Yunanca,Q41
+Grenadlı,Q769
+Guatemalalı,Q774
+Gineli,Q1006
+Bissau-Guine,Q1007
+Guyanalılar,Q734
+Haitili,Q790
+Honduraslı,Q783
+Macarca,Q28
+İzlandaca,Q189
+Kızılderili,Q668
+Endonezyalı,Q252
+Iraklı,Q796
+İsrail,Q801
+İtalyanca,Q38
+Jamaikalı,Q766
+Japonca,Q17
+Ürdünlü,Q810
+Kazakistanlı,Q232
+Kenyalı,Q114
+Kiribati,Q710
+Kuveytli,Q817
+Kırgızistanlı,Q813
+Kırgız,Q813
+Letonyalı,Q211
+Lübnanlı,Q822
+Basotho,Q1013
+Liberyalı,Q1014
+Libyalı,Q1016
+Lihtenştayncı,Q347
+Litvanyalı,Q37
+Lüksemburg,Q1842
+Malagasy,Q1019
+Malavili,Q1020
+Malezyalı,Q833
+Maldivyalı,Q826
+Malili,Q912
+Maltalı,Q233
+Marşallı,Q709
+Moritanyalı,Q1025
+Mauritian,Q1027
+Meksikalı,Q96
+Moldovalı,Q217
+Monégasque,Q235
+Moğolca,Q711
+Karadağlı,Q236
+Faslı,Q1028
+Mozambikli,Q1029
+Namibyalı,Q1030
+Nauruan,Q697
+Nepalli,Q837
+Hollanda dili,Q55
+Yeni Zelanda,Q664
+Nikaragualı,Q811
+Nijerli,Q1032
+Nijeryalı,Q1033
+Niuean,Q34020
+Makedonca,Q221
+Kuzey Marianan,Q16644
+Norveççe,Q20
+Ummani,Q842
+Pakistanlı,Q843
+Palauan,Q695
+Panamalı,Q804
+Papua Yeni Gine,Q691
+Paraguaylı,Q733
+Perulu,Q419
+Filipinli,Q928
+Lehçe,Q36
+Portekizce,Q45
+Katarlı,Q846
+Romanyalı,Q218
+Ruandalı,Q1037
+Kittitian,Q763
+Saint Lucian,Q760
+Saint Vincentian,Q757
+Samoalı,Q683
+Sammarinese,Q1848
+Suudi Arabistanlı,Q851
+Senegalli,Q1041
+Sırpça,Q403
+Seyşeller,Q1042
+Sierra Leonean,Q1044
+Singapur,Q334
+Sint Maarten,Q26273
+Slovakça,Q214
+Sloven,Q215
+Solomon Adası,Q685
+Somalili,Q1045
+Somalili,Q34754
+Güney Afrika,Q258
+Güney Sudanlı,Q958
+İspanyolca,Q29
+Sri Lankalı,Q854
+Sudanlı,Q1049
+Surinamlı,Q730
+İsveççe,Q34
+İsviçreli,Q39
+Tayvanlı,Q865
+Tacikistanlı,Q863
+Tanzanyalı,Q924
+Taylandlı,Q869
+Togolu,Q945
+Tongan,Q678
+Trinidadlı,Q754
+Tunuslu,Q948
+Türkçe Türkçe,Q43
+Türkmen,Q874
+Tuvaluan,Q672
+Ugandalı,Q1036
+Ukraynalı,Q212
+Emirati,Q878
+Emiri,Q878
+Amerikalı,Q30
+Uruguaylı,Q77
+Özbekistanlı,Q265
+Ni-Vanuatu,Q686
+Vietnamlılar,Q881
+Galce,Q25
+Yemenli,Q805
+Zambiyalı,Q953
+Zimbabveli,Q954
+Azeri,Q227
+Beninois,Q962
+Hersekli,Q225
+Botsvanalı,Q963
+Ekvator,Q983
+Swati,Q1050
+Magyar,Q28
+İsrailli,Q801
+Kazakça,Q232
+Kırgızca,Q813
+Lettiş,Q211
+Lüksemburgca,Q1842
+Malinese,Q912
+Monakça,Q235
+Hollanda,Q55
+Papuan,Q691
+Nevisli,Q763
+Vincentian,Q757
+Singapurlu,Q334
+Formosan,Q865
+Tobagonyalı,Q754
+Emiriyan,Q878
+Özbek,Q265
+Vanuatuan,Q686

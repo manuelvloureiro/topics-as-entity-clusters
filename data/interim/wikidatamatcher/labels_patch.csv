@@ -1,0 +1,957 @@
+alias,id
+Covid,Q84263196
+coronavirus,Q84263196
+coronavirus pandemic,Q84263196
+Iran,Q794
+Mac,Q75687
+France,Q142
+dog,Q144
+cat,Q146
+car,Q1420
+NASA,Q23548
+Tesla,Q478214
+Aachen,Q152835
+Abramson,Q162050
+Aeschbacher,Q116550
+Altdorfer,Q153746
+Appel,Q152793
+Arcimboldo,Q7751
+Arkhipov,Q80588
+Arnim,Q66481
+Arnold,Q75284
+Astruc,Q50656
+Bacon,Q154340
+Balleroy,Q162038
+Ballmer,Q121728
+Barraud,Q123715
+Bauer,Q72615
+Bellini,Q17169
+Bendemann,Q69651
+Benoist,Q118810
+Beyer,Q72207
+Böcklin,Q123071
+Bogusławski,Q43628
+Bondone,Q7814
+Bonnard,Q26408
+Botticelli,Q5669
+Bramante,Q7793
+Bramantino,Q7799
+Braque,Q153793
+Braren,Q20683
+Bronzino,Q7803
+Bryullov,Q4768
+Buoninsegna,Q15792
+Caravaggio,Q42207
+Carpaccio,Q5581
+Carracci,Q7824
+Castiglione,Q40823
+Cézanne,Q35548
+Chirico,Q156622
+Churberg,Q139836
+Cimabué,Q15790
+Claudel,Q120582
+Corot,Q148475
+Correggio,Q8457
+Courbet,Q34618
+Crosthwait,Q63402
+Cukier,Q72470
+Dai-chien,Q163298
+Dali,Q5577
+Degas,Q46373
+Delacroix,Q33477
+Delaunay,Q33978
+Derain,Q156272
+Dicker-Brandeis,Q85924
+Dix,Q153104
+Drost,Q60099
+Duchamp,Q5912
+Dyck,Q150679
+Ensor,Q158840
+Feininger,Q158255
+Fishman,Q129525
+Fragonard,Q127171
+Freud,Q154594
+Friedrich,Q104884
+Gambara,Q123806
+Gauguin,Q37693
+Gessner,Q123765
+Giezendanner,Q123743
+Giorgione,Q8459
+Goya,Q5432
+Gris,Q151152
+Grosz,Q107194
+Grünewald,Q154338
+Hadid,Q47780
+Hausmann,Q84503
+Hellqvist,Q63596
+Hesselius,Q130717
+Hitz,Q113144
+Hohenstein,Q76185
+Holbe,Q48319
+Holbein,Q123732
+Hrdlicka,Q78646
+Hyre,Q59894
+Ingres,Q23380
+Itten,Q123138
+Ivanov,Q76829
+Jawlensky,Q156426
+Kahlo,Q5588
+Kandinsky,Q61064
+Kauffmann,Q123098
+Klein,Q154335
+Klenze,Q60163
+Klever,Q89421
+Klimt,Q34661
+Knobelsdorff,Q65901
+Kokoschka,Q154260
+Kooning,Q132305
+Kuhn,Q118798
+Laserstein,Q74642
+Lechowski,Q31242
+Leighton,Q142420
+Lindner,Q126074
+Longhi,Q31146
+Luna,Q28867
+Macke,Q33981
+Magritte,Q7836
+Maillol,Q153920
+Mandijn,Q31298
+Manet,Q40599
+Mantegna,Q5681
+Marc,Q44054
+Márffy,Q111827
+Masaccio,Q5811
+Mathews,Q74987
+Mattheuer,Q87268
+Mazzola,Q64340
+Messina,Q5594
+Metzenmacher,Q112802
+Millais,Q159606
+Mind,Q116606
+Miró,Q152384
+Modigliani,Q120993
+Mondrian,Q151803
+Monet,Q296
+Morisot,Q105320
+Moser,Q45055
+Munch,Q41406
+Nolde,Q152788
+O'Keeffe,Q46408
+Oppenheim,Q61594
+Parmigianino,Q9348
+Perugino,Q5827
+Peters,Q119943
+Picabia,Q157321
+Picasso,Q5593
+Pins,Q96527
+Pinturicchio,Q5591
+Pizzirani,Q139821
+Pollock,Q37571
+Portaña,Q117543
+Poussin,Q41554
+Rauch,Q62331
+Ray,Q46139
+Redon,Q154349
+Rembrandt,Q5598
+Reni,Q109061
+Rococo,Q122960
+Rothko,Q160149
+Rousseau,Q156386
+Rubens,Q5599
+Sándorfi,Q44126
+Sargent,Q155626
+Schiele,Q44032
+Schillig,Q119208
+Schorn,Q63462
+Schulze-Knabe,Q97467
+Schwitters,Q155158
+Serebriakova,Q161858
+Seurat,Q34013
+Sher-Gil,Q150312
+Signac,Q151573
+Simonet,Q94851
+Sodoma,Q8506
+Soutine,Q160141
+Surikov,Q110228
+Tanobe,Q133390
+Tàpies,Q158099
+Telleria,Q28819
+Tinguely,Q163938
+Tintoretto,Q9319
+Titian,Q47551
+Tura,Q7129
+Twombly,Q159566
+Utrillo,Q108301
+Valadon,Q156889
+Vallotton,Q123740
+van Gogh,Q5582
+Vasarely,Q154448
+Vereshchagin,Q127017
+Vermeer,Q41264
+Veronese,Q9440
+Vinci,Q762
+von Bayros,Q26917
+Weber,Q18230
+Weissenkircher,Q88124
+Wertmüller,Q116418
+Weyden,Q68631
+Woodward,Q56102
+Zverev,Q119438
+A Coruña,Q6063659
+Aarau,Q14274
+Abu Dhabi,Q1519
+Abuja,Q3787
+Accra,Q3761
+Addis Ababa,Q3624
+Aden,Q131694
+Agartala,Q170454
+Akkad,Q150996
+Alajuelita,Q3410901
+Alcanena,Q31877477
+Alcochete,Q605319
+Alenquer,Q31878333
+Algiers,Q3561
+Alhandra,Q31878751
+Aljustrel,Q31879046
+Almeirim,Q31879456
+Alofi,Q30966
+Alter do Chão,Q49344178
+Alzira,Q931780
+Amarante,Q31880915
+Amman,Q3805
+Amsterdam,Q727
+Andorra la Vella,Q1863
+Ankara,Q3640
+Anshan,Q569107
+Antananarivo,Q3915
+Apia,Q36260
+Aracaju,Q170578
+Arequipa,Q159273
+Arganil,Q31887734
+Arkansas Post,Q672913
+Arnhem,Q12269651
+Artaxata,Q706215
+Asaak,Q4803191
+Ashgabat,Q23438
+Asmara,Q3642
+Asuka,Q752394
+Asunción,Q2933
+Athens,Q1524
+Avarua,Q170482
+Aveiro,Q3344926
+Baghdad,Q1530
+Bahía Negra,Q15941322
+Baku,Q9248
+Bamako,Q3703
+Bandar Seri Begawan,Q9279
+Bangkok,Q1861
+Bangui,Q3832
+Banjul,Q3726
+Barreiro,Q31911550
+Basseterre,Q41295
+Batalha,Q31912265
+Batavia,Q1199713
+Beijing,Q956
+Beirut,Q3820
+Beja,Q3344424
+Belém,Q12829733
+Belgrade,Q3711
+Belmopan,Q3043
+Belo Horizonte,Q42800
+Bengaluru,Q1355
+Berlin,Q64
+Bern,Q70
+Besançon,Q37776
+Bhopal,Q80989
+Białystok,Q761
+Bianliang,Q7223839
+Bishkek,Q9361
+Bissau,Q3739
+Bloemfontein,Q37701
+Boa Vista,Q181056
+Bogota,Q2841
+Bogotá,Q2841
+Bolzano,Q6526
+Bombarral,Q31924170
+Borba,Q31924457
+Botarell,Q24015229
+Brasilia,Q2844
+Brasília,Q2844
+Bratislava,Q1780
+Brazzaville,Q3844
+Bridgetown,Q36168
+Brussels,Q239
+Bucharest,Q19660
+Bückeburg,Q157035
+Budapest,Q1781
+Buenos Aires,Q1486
+Cairo,Q85
+Campo Grande,Q168929
+Canberra,Q3114
+Canelones,Q841342
+Cape Town,Q5465
+Capital of the Netherlands,Q834162
+Caracas,Q1533
+Cardiff,Q10690
+Carmona,Q23986680
+Castellolí,Q24009579
+Castries,Q41699
+Chandigarh,Q43433
+Cherrapunji,Q211030
+Chisinau,Q21197
+Chișinău,Q21197
+Chur,Q69007
+Cirat,Q1769924
+Cockburn Town,Q34205
+Colombo,Q35381
+Conakry,Q3733
+Copenhagen,Q1748
+Corrientes,Q44211
+Creixell,Q24015219
+Crespià,Q24019203
+Ctesiphon,Q192541
+Cuiabá,Q170762
+Cunit,Q24015218
+Curitiba,Q4361
+Dakar,Q3718
+Damascus,Q3766
+Delémont,Q63896
+Deltebre,Q24015201
+Dhaka,Q1354
+Dili,Q9310
+Djibouti,Q3604
+Dodoma,Q3866
+Doha,Q3861
+Dublin,Q1761
+Durango,Q112813
+Durjaya,Q5316658
+Dushanbe,Q9365
+Dvin,Q429059
+East Berlin,Q56037
+Ecbatana,Q696193
+Edessa,Q1190403
+Edinburgh of the Seven Seas,Q498153
+Edinburgh,Q23436
+Elda,Q608985
+Erbil,Q132754
+Establishment of the capital in Valladolid,Q8262638
+Farrera,Q24013021
+Fengtian Fu,Q10054424
+Florence,Q2044
+Florianópolis,Q132997
+Fornells de la Selva,Q24022116
+Freetown,Q3780
+Fribourg,Q36378
+Fulleda,Q24013017
+Funafuti,Q34126
+Fuzhou,Q68481
+Gaborone,Q3919
+Georgetown,Q10717
+Gitega,Q167551
+Goiânia,Q83189
+Golkonda,Q4141623
+Golmés,Q24013016
+Groningen,Q749
+Guatemala City,Q1555
+Haarlem,Q9920
+Hamilton,Q30985
+Hanoi,Q1858
+Hanseongbu,Q624467
+Harare,Q3921
+Hargeisa,Q168652
+Hattusa,Q181007
+Havana,Q1563
+Hecatompylos,Q1518300
+Helsinki,Q1757
+Honiara,Q40921
+Horgen,Q68286
+Hostalric,Q24019200
+Islamabad,Q1362
+Istanbul,Q406
+Itanagar,Q41128
+Izhevsk,Q5426
+Jaipur,Q66485
+Jakarta,Q3630
+Jamestown,Q30970
+Jerusalem,Q1218
+Jiankang,Q1330294
+Jizan,Q27660
+João Pessoa,Q167436
+Jorba,Q24009576
+Juba,Q1947
+Kabul,Q5838
+Kampala,Q3894
+Kapisi,Q5865090
+Karta,Q12489692
+Kathmandu,Q3037
+Kayseri,Q48338
+Kerma,Q1107569
+Khanbaliq,Q101186473
+Khartoum,Q1963
+Kigali,Q3859
+Kingston,Q34692
+Kingstown,Q41474
+Kinshasa,Q3838
+Kirkuk,Q173310
+Kisangani,Q146723
+Krakow,Q31487
+Kraków,Q31487
+Kralendijk,Q331584
+Kuala Lumpur,Q1865
+Kullu,Q83442
+Kuwait City,Q35178
+Kyiv,Q1899
+La Paz,Q1491
+La Plata,Q44059
+Laguardia,Q24008400
+Lausanne,Q807
+Leeuwarden,Q25390
+Lelystad,Q166065
+Libreville,Q3825
+Lilongwe,Q3876
+Lima,Q2868
+Linguère,Q3233968
+Lisbon,Q597
+Ljubljana,Q437
+Lobamba,Q101418
+Lomé,Q3792
+London,Q84
+Loreto,Q1020758
+Luanda,Q3897
+Lucknow,Q47916
+Lugdunum,Q665
+Lusaka,Q3881
+Luxembourg,Q1842
+Maastricht,Q39260185
+Macapá,Q180215
+Madinah al-Khatt,Q98686735
+Madrid,Q2807
+Magama,Q47461088
+Majuro,Q12919
+Malabo,Q3818
+Málaga,Q8851
+Malé,Q9347
+Mamuju,Q1070920
+Managua,Q3274
+Manama,Q3882
+Manaus,Q40236
+Mandor,Q12496587
+Maputo,Q3889
+Mariehamn,Q48329
+Marinha Grande,Q49286541
+Maseru,Q3909
+Mataró,Q24009568
+Mbabane,Q3904
+Mediona,Q24009567
+Mexico City,Q1489
+Middelburg,Q52101
+Minsk,Q2280
+Mogadishu,Q2449
+Monrovia,Q3748
+Montevideo,Q1335
+Moroni,Q3901
+Moscow,Q649
+Muscat,Q3826
+Nacaome,Q633929
+Nairobi,Q3870
+Nanjing,Q16666
+Nassau,Q2467
+Natal,Q131620
+Naypyidaw,Q37400
+N'Djamena,Q3659
+Neuchatel,Q69345
+Neuchâtel,Q69345
+New Delhi,Q987
+Ngerulmud,Q515229
+Niamey,Q3674
+Nicosia,Q3856
+Nisa,Q854672
+Nouakchott,Q3688
+Nuku'alofa,Q38834
+Nur-Sultan,Q1520
+Oranjestad,Q217610
+Oslo,Q585
+Ottawa,Q1930
+Ouagadougou,Q3777
+Oyo-Ile,Q18342086
+Padua,Q617
+Pago Pago,Q51678
+Palikir,Q42751
+Palmas,Q178993
+Palo,Q31458400
+Panama City,Q3306
+Papremi,Q3894902
+Paramaribo,Q3001
+Paris,Q90
+Patna,Q80484
+Persepolis,Q129072
+Peshawar,Q1113311
+Philipsburg,Q30958
+Phnom Penh,Q1850
+Podgorica,Q23564
+Port Louis,Q3929
+Port Moresby,Q36526
+Port of Spain,Q39178
+Port Vila,Q37806
+Port-au-Prince,Q34261
+Porto Alegre,Q40269
+Porto Velho,Q172512
+Porto-Novo,Q3799
+Prague,Q1085
+Praia,Q3751
+Pretoria,Q3926
+Putrajaya,Q182378
+Pyongyang,Q18808
+Qashliq,Q1815305
+Quito,Q2900
+Rabat,Q3551
+Ranchi,Q174461
+Reykjavik,Q1764
+Reykjavík,Q1764
+Riga,Q1773
+Rio de Janeiro,Q8678
+Riyadh,Q3692
+Rome,Q220
+Roseau,Q36281
+Rovaniemi,Q103717
+Sa Pa,Q1000140
+Saint Anne,Q993064
+Saint Helier,Q147738
+Saint John's,Q36262
+San José del Cabo,Q2088134
+San José,Q3070
+San Juan,Q3947434
+San Marino,Q1848
+San Pablo,Q3947744
+San Pablo,Q3947745
+San Salvador,Q3110
+Sanaa,Q2471
+Sant Sadurní de l'Heura,Q11947391
+Santa Ana,Q3948919
+Santa Rosa,Q44215
+Santiago,Q2887
+Santo Domingo,Q34820
+São Paulo,Q174
+Sao Tome,Q3932
+São Tomé,Q3932
+Sarajevo,Q11194
+Sardis,Q232615
+Sarnen,Q63964
+Sarrià de Ter,Q24019173
+Schwyz,Q68155
+Seleucia,Q1136681
+Seoul,Q8684
+Shimla,Q83786
+Shravasti,Q2594448
+Siem Reap,Q11711
+Singapore,Q334
+Skopje,Q384
+Smolensk,Q2337
+Sofia,Q472
+South Tarawa,Q131233
+Sri Jayawardenepura Kotte,Q41963
+St. George's,Q41547
+St. Pölten,Q82500
+Stanley,Q12245
+Stepanakert,Q129352
+Stockholm,Q1754
+Sucre,Q2907
+Susa,Q180773
+Suva,Q38807
+Sydney,Q3130
+Tabiz,Q2313393
+Taipei,Q1867
+Tallinn,Q1770
+Tambacounda,Q977305
+Taradell,Q24013984
+Tashkent,Q269
+Tavertet,Q24012017
+Tbilisi,Q994
+Tegucigalpa,Q3238
+Tehran,Q3616
+Teresina,Q165341
+Térmens,Q24012988
+The Bottom,Q475718
+The Hague,Q41795540
+Thimphu,Q9270
+Tirana,Q19689
+Tiraspol,Q132572
+Tokyo,Q1490
+Tordera,Q24022126
+Torrent,Q24019167
+Tripoli,Q3579
+Tunis,Q3572
+Turquoise Mountain,Q7856199
+Ulaanbaatar,Q23430
+Vaduz,Q1844
+Vallclara,Q24024956
+Valletta,Q23800
+Veligrad,Q1131299
+Venice,Q641
+Victoria,Q3940
+Vientiane,Q9326
+Vilablareix,Q24024935
+Vilnius,Q216
+Warsaw,Q270
+"Washington, D.C.",Q61
+Washington,Q79281
+Washukanni,Q1069007
+Wellington,Q23661
+Willemstad,Q132679
+Windhoek,Q3935
+Yamoussoukro,Q3768
+Yao,Q3112913
+Yaoundé,Q3808
+Yaren District,Q31026
+Yerevan,Q1953
+Zagreb,Q1435
+Zazana,Q3753338
+Alabama,Q173
+Alaska,Q797
+Arizona,Q816
+Arkansas,Q1612
+California,Q99
+Colorado,Q1261
+Connecticut,Q779
+Delaware,Q1393
+Florida,Q812
+Georgia,Q1428
+Hawaii,Q782
+Idaho,Q1221
+Illinois,Q1204
+Indiana,Q1415
+Iowa,Q1546
+Kansas,Q1558
+Kentucky,Q1603
+Louisiana,Q1588
+Maine,Q724
+Maryland,Q1391
+Massachusetts,Q771
+Michigan,Q1166
+Minnesota,Q1527
+Mississippi,Q1494
+Missouri,Q1581
+Montana,Q1212
+Nebraska,Q1553
+Nevada,Q1227
+New Hampshire,Q759
+New Jersey,Q1408
+New Mexico,Q1522
+New York,Q1384
+North Carolina,Q1454
+North Dakota,Q1207
+Ohio,Q1397
+Oklahoma,Q1649
+Oregon,Q824
+Pennsylvania,Q1400
+Rhode Island,Q1387
+South Carolina,Q1456
+South Dakota,Q1211
+Tennessee,Q1509
+Texas,Q1439
+Utah,Q829
+Vermont,Q16551
+Virginia,Q1370
+Washington,Q1223
+West Virginia,Q1371
+Wisconsin,Q1537
+Wyoming,Q1214
+Gabon,Q1000
+Gambia,Q1005
+Guinea,Q1006
+Guinea-Bissau,Q1007
+Ivory Coast,Q1008
+Cameroon,Q1009
+Cape Verde,Q1011
+Lesotho,Q1013
+Liberia,Q1014
+Libya,Q1016
+Madagascar,Q1019
+Malawi,Q1020
+Mauritania,Q1025
+Mauritius,Q1027
+Morocco,Q1028
+Mozambique,Q1029
+Namibia,Q1030
+Niger,Q1032
+Nigeria,Q1033
+Uganda,Q1036
+Rwanda,Q1037
+São Tomé e Príncipe,Q1039
+Sao Tome and Principe,Q1039
+São Tomé and Príncipe,Q1039
+Senegal,Q1041
+Seychelles,Q1042
+Sierra Leone,Q1044
+Somalia,Q1045
+Sudan,Q1049
+Eswatini,Q1050
+Kingdom of Africa,Q105082407
+Republic of China,Q107312248
+Alexander I Island,Q107356185
+State of Somaliland,Q1106857
+Kenya,Q114
+Ethiopia,Q115
+Ghana,Q117
+France,Q142
+United Kingdom,Q145
+England,Q21
+China,Q148
+People's Republic of China,Q148
+Brazil,Q155
+Russia,Q159
+Canada,Q16
+Gagauzia,Q164819
+Masserano,Q16601665
+Principality of Masserano,Q16601665
+American Samoa,Q16641
+Northern Mariana Islands,Q16644
+Japan,Q17
+Germany,Q183
+Belarus,Q184
+Iceland,Q189
+Estonia,Q191
+Norway,Q20
+Crown of Aragon,Q204920
+Imperial State of Iran,Q207991
+Latvia,Q211
+Ukraine,Q212
+Aruba,Q21203
+Czech Republic,Q213
+Slovakia,Q214
+Slovenia,Q215
+Moldova,Q217
+Romania,Q218
+Bulgaria,Q219
+North Macedonia,Q221
+Albania,Q222
+Croatia,Q224
+Bosnia and Herzegovina,Q225
+Bosnia,Q225
+Herzegovina,Q225
+Azerbaijan,Q227
+Andorra,Q228
+Cyprus,Q229
+Georgia,Q230
+Kazakhstan,Q232
+Malta,Q233
+Monaco,Q235
+Montenegro,Q236
+Vatican City,Q237
+San Marino,Q238
+Cuba,Q241
+Belize,Q242
+Barbados,Q244
+Republic of Artsakh,Q244165
+Wales,Q25
+Indonesia,Q252
+South Africa,Q258
+Algeria,Q262
+Sint Maarten,Q26273
+Uzbekistan,Q265
+Cook Islands,Q26988
+Ireland,Q27
+Hungary,Q28
+Spain,Q29
+Chile,Q298
+United States of America,Q30
+Belgium,Q31
+Luxembourg,Q32
+Finland,Q33
+Singapore,Q334
+Sweden,Q34
+Niue,Q34020
+Liechtenstein,Q347
+Somaliland,Q34754
+Denmark,Q35
+Poland,Q36
+Lithuania,Q37
+Italy,Q38
+Switzerland,Q39
+Galicia,Q3908
+Bahrain,Q398
+Armenia,Q399
+Austria,Q40
+Serbia,Q403
+Australia,Q408
+Greece,Q41
+Argentina,Q414
+Peru,Q419
+North Korea,Q423
+Cambodia,Q424
+Turkey,Q43
+Portugal,Q45
+Netherlands,Q55
+East Timor,Q574
+Chad,Q657
+New Zealand,Q664
+India,Q668
+Tuvalu,Q672
+Tonga,Q678
+Samoa,Q683
+Solomon Islands,Q685
+Vanuatu,Q686
+Papua New Guinea,Q691
+Palau,Q695
+Nauru,Q697
+Micronesia,Q702
+Federated States of Micronesia,Q702
+Marshall Islands,Q709
+Kiribati,Q710
+Mongolia,Q711
+Fiji,Q712
+Venezuela,Q717
+Suriname,Q730
+Paraguay,Q733
+Guyana,Q734
+Ecuador,Q736
+Colombia,Q739
+Bolivia,Q750
+Trinidad and Tobago,Q754
+Danish Realm,Q756617
+Saint Vincent and the Grenadines,Q757
+Saint Lucia,Q760
+Saint Kitts and Nevis,Q763
+Jamaica,Q766
+Grenada,Q769
+Uruguay,Q77
+Guatemala,Q774
+The Bahamas,Q778
+Antigua and Barbuda,Q781
+Honduras,Q783
+Dominica,Q784
+Dominican Republic,Q786
+Egypt,Q79
+Haiti,Q790
+El Salvador,Q792
+Iran,Q794
+Iraq,Q796
+Costa Rica,Q800
+Israel,Q801
+Panama,Q804
+Yemen,Q805
+Jordan,Q810
+Nicaragua,Q811
+Kyrgyzstan,Q813
+Kuwait,Q817
+Laos,Q819
+Lebanon,Q822
+Maldives,Q826
+Malaysia,Q833
+Myanmar,Q836
+Nepal,Q837
+Oman,Q842
+Pakistan,Q843
+Qatar,Q846
+Saudi Arabia,Q851
+Sri Lanka,Q854
+Syria,Q858
+Tajikistan,Q863
+Taiwan,Q865
+Thai,Q869
+Thailand,Q869
+Turkmenistan,Q874
+United Arab Emirates,Q878
+Vietnam,Q881
+South Korea,Q884
+Afghanistan,Q889
+Bangladesh,Q902
+Transnistria,Q907112
+Mali,Q912
+Angola,Q916
+Bhutan,Q917
+Brunei,Q921
+Tanzania,Q924
+Philippines,Q928
+Central African Republic,Q929
+Togo,Q945
+Tunisia,Q948
+Zambia,Q953
+Zimbabwe,Q954
+South Sudan,Q958
+Mexico,Q96
+Benin,Q962
+Botswana,Q963
+Burkina Faso,Q965
+Burundi,Q967
+Comoros,Q970
+Republic of the Congo,Q971
+Congo,Q974
+Democratic Republic of the Congo,Q974
+Djibouti,Q977
+Equatorial Guinea,Q983
+Eritrea,Q986
+Saturn,Q193
+Jupiter,Q319
+Uranus,Q324
+Neptune,Q332
+Mercury,Q308
+Mars,Q111
+Venus,Q313
+Trump,Q22686
+Biden,Q6279
+Cleopatra,Q635
+Musk,Q317521
+CR7,Q11571
+Maradona,Q17515
+Hitler,Q352
+Obama,Q76
+Thatcher,Q7416
+Messi,Q615
+Puigdemont,Q4740163
+Churchill,Q8016
+Republicans,Q29468
+Democrats,Q29552
+token,Q751944
+DeFi,Q97660299
+Defi,Q97660299
+defi,Q97660299
+meme stock,Q2927074
+meme coin,Q2927074
+meme token,Q2927074
+DIY,Q26384
+NBC,Q13974
+SNL,Q13979
+KFC,Q524757
+ICO,Q30100943
+TRI,Q25405623
+Weibo,Q92526
+Uber,Q780442
+Pokemon,Q864
+UK,Q145
+Descent of Man,Q1165434
+Gen Z,Q1987589
+Gen-Z,Q1987589
+Zoomer,Q1987589
+Zoomers,Q1987589
+zoomers,Q1987589
+zoomer,Q1987589
+Millenial,Q277633
+Millenials,Q277633
+millenials,Q277633
+Gen Y,Q1987589
+Gen-Y,Q1987589
+Gen X,Q379689
+Gen-X,Q379689
+influencer,Q2045208
+metaverse,Q2632041G
+4G,Q79697
+5G,Q1363408
+Three,Q19840922
+Bitcoin,Q131723
+BTC,Q131723
+bitcoin,Q131723
+bitcoins,Q131723
+RAF,Q165862
+Beyoncé,Q36153
+Beyonce,Q36153
+Zendaya,Q189489
+Texans,Q1439
+Texanns,Q1439
+ETH Zurich,Q11942
+vegan,Q181138
+Megxit,Q3304418
+Southern California,Q99
+Wimbledon,Q41520
+Premier League,Q9448
+Premier-League,Q9448
