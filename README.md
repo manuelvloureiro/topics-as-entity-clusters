@@ -1,10 +1,26 @@
 # Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks
 
-This repository contains the source code for our paper titled _"Topics as Entity Clusters: Entity-based Topics from
-Large Language Models and Graph Neural Networks"_, to be presented at LREC-Coling 2024. Here, we propose TEC (Topics as
+This repository contains the source code for our paper titled _"[Topics as Entity Clusters: Entity-based Topics from
+Large Language Models and Graph Neural Networks](https://aclanthology.org/2024.lrec-main.1418/)"_, presented at LREC-Coling 2024. Here, we propose TEC (Topics as
 Entity Clusters) a novel approach for extracting topic clusters utilizing large language models and graph neural
 networks to analyze and interpret the underlying themes in large text corpora effectively.
 
+## Abstract
+
+Topic models aim to reveal latent structures within a corpus of text, typically through the use of term-frequency
+statistics over bag-of-words representations from documents. In recent years, conceptual entities — interpretable,
+language-independent features linked to external knowledge resources — have been used in place of word-level tokens,
+as words typically require extensive language processing with a minimal assurance of interpretability. However, current
+literature is limited when it comes to exploring purely entity-driven neural topic modeling. For instance, despite the
+advantages of using entities for eliciting thematic structure, it is unclear whether current techniques are compatible
+with these sparsely organised, information-dense conceptual units. In this work, we explore entity-based neural topic
+modeling and propose a novel topic clustering approach using bimodal vector representations of entities. Concretely, we
+extract these latent representations from large language models and graph neural networks trained on a knowledge base of
+symbolic relations, in order to derive the most salient aspects of these conceptual units. Analysis of coherency metrics
+confirms that our approach is better suited to working with entities in comparison to state-of-the-art models,
+particularly when using graph-based embeddings trained on a knowledge base.
+
+## Overview
 <img src="diagram.png" alt="Topics as Entity Clusters diagram" width=1000/>
 
 *Overview of Topics as Entity Clusters (TEC). The top half illustrates the processing of entity embeddings, topic
@@ -298,20 +314,31 @@ This is the initial release of the code used in the paper.
 
 Please cite our paper if you use this code in your research:
 
-Manuel V. Loureiro, Steven Derby, and Tri Kurniawan Wijaya. “Topics as Entity Clusters: Entity-based Topics from Large
-Language Models and Graph Neural Networks”. In: _Proceedings of LREC-Coling_. Torino, Italy, May 2024.
+Loureiro, Manuel V., Steven Derby, and Tri Kurniawan Wijaya. "Topics as Entity Clusters: Entity-based Topics from Large
+Language Models and Graph Neural Networks." Proceedings of the 2024 Joint International Conference on Computational
+Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024.
 
 ```
-@InProceedings{loureiro-EtAl:2024:LREC-Coling,
-  author    = {Loureiro, Manuel V.  and  Derby, Steven  and  Wijaya, Tri Kurniawan},
-  title     = {Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks},
-  booktitle      = {Proceedings of LREC-Coling},
-  month          = {May},
-  year           = {2024},
-  address        = {Torino, Italy},
-  abstract  = {Topic models aim to reveal latent structures within a corpus of text, typically through the use of term-frequency statistics over bag-of-words representations from documents. In recent years, conceptual entities --- interpretable, language-independent features linked to external knowledge resources --- have been used in place of word-level tokens, as words typically require extensive language processing with a minimal assurance of interpretability. However, current literature is limited when it comes to exploring purely entity-driven neural topic modeling. For instance, despite the advantages of using entities for eliciting thematic structure, it is unclear whether current techniques are compatible with these sparsely organised, information-dense conceptual units. In this work, we explore entity-based neural topic modeling and propose a novel topic clustering approach using bimodal vector representations of entities. Concretely, we extract these latent representations from large language models and graph neural networks trained on a knowledge base of symbolic relations, in order to derive the most salient aspects of these conceptual units. Analysis of coherency metrics confirms that our approach is better suited to working with entities in comparison to state-of-the-art models, particularly when using graph-based embeddings trained on a knowledge base.}
-}
-```
+@inproceedings{loureiro-etal-2024-topics-entity,
+    title = "Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks",
+    author = "Loureiro, Manuel V.  and
+      Derby, Steven  and
+      Wijaya, Tri Kurniawan",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1418",
+    pages = "16315--16330",
+    abstract = "Topic models aim to reveal latent structures within a corpus of text, typically through the use of term-frequency statistics over bag-of-words representations from documents. In recent years, conceptual entities {---} interpretable, language-independent features linked to external knowledge resources {---} have been used in place of word-level tokens, as words typically require extensive language processing with a minimal assurance of interpretability. However, current literature is limited when it comes to exploring purely entity-driven neural topic modeling. For instance, despite the advantages of using entities for eliciting thematic structure, it is unclear whether current techniques are compatible with these sparsely organised, information-dense conceptual units. In this work, we explore entity-based neural topic modeling and propose a novel topic clustering approach using bimodal vector representations of entities. Concretely, we extract these latent representations from large language models and graph neural networks trained on a knowledge base of symbolic relations, in order to derive the most salient aspects of these conceptual units. Analysis of coherency metrics confirms that our approach is better suited to working with entities in comparison to state-of-the-art models, particularly when using graph-based embeddings trained on a knowledge base.",
+}```
 
 ## License
 
